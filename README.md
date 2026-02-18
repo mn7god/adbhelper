@@ -12,10 +12,6 @@ sudo apt update ; sudo apt upgrade ; sudo apt install git ; sudo apt install rub
 apt update ; apt upgrade ; apt install git ; apt install ruby ; gem install tty-prompt ; apt install adb ; apt install android-tools ; git clone https://github.com/mn7god/adbhelper ; cd adbhelper ; ruby adbhelp.rb
 ```
 
-# Disclaimer
-
-dont use this tool for criminal purposes!
-
 # Screenshots
 
 <div id="header" align="center">
