@@ -3,13 +3,13 @@
 # Debian installation
 
 ```console
-sudo apt update ; sudo apt upgrade ; sudo apt install git ; sudo apt install ruby ; gem install tty-prompt ; sudo apt install adb ; git clone https://github.com/w3irdguy/adbhelper ; cd adbhelper ; ruby adbhelp.rb
+sudo apt update ; sudo apt upgrade ; sudo apt install git ; sudo apt install ruby ; gem install tty-prompt ; sudo apt install adb ; git clone https://github.com/mn7god/adbhelper ; cd adbhelper ; ruby adbhelp.rb
 ```
 
 # Termux installation
 
 ```console
-apt update ; apt upgrade ; apt install git ; apt install ruby ; gem install tty-prompt ; apt install adb ; apt install android-tools ; git clone https://github.com/w3irdguy/adbhelper ; cd adbhelper ; ruby adbhelp.rb
+apt update ; apt upgrade ; apt install git ; apt install ruby ; gem install tty-prompt ; apt install adb ; apt install android-tools ; git clone https://github.com/mn7god/adbhelper ; cd adbhelper ; ruby adbhelp.rb
 ```
 
 # Disclaimer
