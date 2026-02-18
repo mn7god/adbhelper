@@ -1,6 +1,6 @@
 # Firstly Glory To God
 
-# Kali linux installation
+# Debian installation
 
 ```console
 sudo apt update ; sudo apt upgrade ; sudo apt install git ; sudo apt install ruby ; gem install tty-prompt ; sudo apt install adb ; git clone https://github.com/w3irdguy/adbhelper ; cd adbhelper ; ruby adbhelp.rb
